@@ -7,5 +7,6 @@ def square_array(array)
     operation = num ** num
     new_array << operation
   end
+end
 
 end
