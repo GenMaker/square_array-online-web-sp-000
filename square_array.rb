@@ -1,4 +1,6 @@
 def square_array(array)
   # your code here
-  new_array = array.each(**)
+  while array
+    operation = array.each(**)
+
 end
